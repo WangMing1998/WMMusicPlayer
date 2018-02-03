@@ -1,0 +1,2 @@
+# WMMusicPlayer
+加载App自带音乐及ipod音乐库的本地音乐播放器
